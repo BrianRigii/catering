@@ -20,6 +20,7 @@
 .navigate ul li{
     display: inline-block;
     list-style: none;
+    z-index: -100;
 
 }
 .navigate ul li a{
@@ -28,9 +29,29 @@
     text-decoration: none;
     font-family: 'Julius Sans One', sans-serif;
 }
+.navigate ul li :hover{
+    background-color: orange;
+    transition: ease-in;
+    padding-bottom: 1vh;
+    border-radius: 3px;
+    padding-top: 1vh;
+    padding-left: 2vh;
+    padding-right: 2vh;
+}
  .body img{
     position: absolute;
     left: 55vh;
     bottom: 10vh;
  }
+.Menu{
+    margin-top: 50%;
+    font-family: 'Julius Sans One', sans-serif;
+   
+}
+.menustuff{
+    display: flex;
+}
+.card{
+    margin-left: 8vh;
+}
   
