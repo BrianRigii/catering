@@ -1,3 +1,8 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
 .logo h1{
     font-family: 'Julius Sans One', sans-serif;
     position: absolute;
@@ -46,6 +51,7 @@
 .Menu{
     margin-top: 40%;
     font-family: 'Julius Sans One', sans-serif;
+    color: orange;
    
 }
 .menustuff{
@@ -53,5 +59,22 @@
 }
 .card{
     margin-left: 8vh;
+}
+
+.orders h2{
+    font-family: 'Julius Sans One', sans-serif;
+    color: orange;
+
+}
+form{
+    width: 100vh;
+}
+.select {
+    width:40vh
+}
+.orders{
+    background-image: url("../images/chef.jpg");
+    background-repeat: no-repeat;
+    background-position: 100vh;
 }
   
