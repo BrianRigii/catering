@@ -1,0 +1,27 @@
+.logo h1{
+    font-family: 'Julius Sans One', sans-serif;
+    position: absolute;
+    top: 3vh;
+    
+}
+.logoz{
+    font-family: 'Allura', cursive;
+    font-size: 6vh;
+    position: absolute;
+    top:10vh
+}
+.mood{
+    color:orange
+}
+.navbar{
+    display:flex;
+}
+.navigate ul li{
+    display: inline-block;
+    list-style: none;
+
+}
+.navigate ul li a{
+    color: black;
+    padding:5vh
+}
