@@ -64,10 +64,13 @@
 .orders h2{
     font-family: 'Julius Sans One', sans-serif;
     color: orange;
+    padding-left: 5vh;
 
 }
 form{
     width: 100vh;
+    padding-left: 5vh;
+    
 }
 .select {
     width:40vh
@@ -76,5 +79,10 @@ form{
     background-image: url("../images/chef.jpg");
     background-repeat: no-repeat;
     background-position: 100vh;
+    
+    
+}
+.mybtn{
+    margin-left: 10vh;
 }
   
