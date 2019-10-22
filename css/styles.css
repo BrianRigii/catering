@@ -2,11 +2,12 @@
     font-family: 'Julius Sans One', sans-serif;
     position: absolute;
     top: 3vh;
+    font-size: 7vh;
     
 }
 .logoz{
     font-family: 'Allura', cursive;
-    font-size: 6vh;
+    font-size: 4vh;
     position: absolute;
     top:10vh
 }
@@ -23,5 +24,13 @@
 }
 .navigate ul li a{
     color: black;
-    padding:5vh
+    padding:5vh;
+    text-decoration: none;
+    font-family: 'Julius Sans One', sans-serif;
 }
+ .body img{
+    position: absolute;
+    left: 55vh;
+    bottom: 10vh;
+ }
+  
