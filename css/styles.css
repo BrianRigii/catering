@@ -109,4 +109,28 @@ form{
     font-weight: bold;
     top:25vh
 }
+.Chat h2{
+    font-family: 'Julius Sans One', sans-serif;
+    color: orange;
+    padding-left: 5vh;
+}
+.Chat p {
+    padding-left: 5vh;
+    margin-bottom:5vh ;
+    font-family: 'Julius Sans One', sans-serif;
+    
+}
+.chatstuff{
+    display: flex;
+    position:relative
+}
+form input{
+    margin-bottom: 2vh;
+}
+.chatimg{
+    position: absolute;
+    left:80vh;
+    bottom:5vh
+
+}
   
