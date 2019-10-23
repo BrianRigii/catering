@@ -97,9 +97,16 @@ form{
 .testimonialstuff{
     display:flex;
     background-color: rgb(255,204,0);
+    position: relative;
+   
 }
 .testimonialtxt h3{
     position: absolute;
-    left: 10vh
+    left: 90vh;
+    font-family: 'Allura', cursive;
+    color:gainsboro;
+    font-size: 10vh;
+    font-weight: bold;
+    top:25vh
 }
   
